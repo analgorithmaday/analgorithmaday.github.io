@@ -53,4 +53,3 @@ void main()
         free(list);
     }
 }
-Contact GitHub API Training Shop Blog About
